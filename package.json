@@ -1,0 +1,17 @@
+{
+  "name": "AdventOfCode",
+  "version": "1.0.0",
+  "description": "Advent of code 2021",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
